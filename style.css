@@ -179,16 +179,16 @@ body {
   }
   
   .gallery img {
-    width: 280px;
-    height: 225px;
+    width: 250px;
+    height: 150px;
     object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    box-shadow: 1px -2px 38px 8px rgba(0, 0, 0, 0.52);
     cursor: pointer;
     transition-duration: 0.5s;
   }
   
   .gallery img:hover {
-    width: 330px;
-    height:250px ;
+    width: 300px;
+    height:200px ;
   }
