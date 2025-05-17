@@ -84,6 +84,7 @@ video{
     display: flex;
     width: 99%;
     margin: 15px 10px 0px 10px;
+     flex-wrap: wrap;
     
 
 }
