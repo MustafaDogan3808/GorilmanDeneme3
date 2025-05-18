@@ -8,7 +8,8 @@
 
 body {
     font-family: sans-serif;
-    background: linear-gradient(to bottom, rgb(26, 17, 35), rgb(188, 122, 255), rgb(113, 76, 152), rgb(162, 122, 255),rgb(26, 17, 35));
+    /*background: linear-gradient(to bottom, rgb(26, 17, 35), rgb(188, 122, 255), rgb(113, 76, 152), rgb(162, 122, 255),rgb(26, 17, 35));*/
+    background: radial-gradient(rgb(171, 147, 255),rgb(13, 1, 58)); 
 
 }
 video{
