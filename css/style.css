@@ -8,7 +8,7 @@
 
 body {
     font-family: sans-serif;
-    background: linear-gradient(to bottom, black, rgb(255, 122, 122), rgb(244, 184, 184), rgb(255, 122, 122), black);
+    background: linear-gradient(to bottom, rgb(26, 17, 35), rgb(188, 122, 255), rgb(113, 76, 152), rgb(162, 122, 255),rgb(26, 17, 35));
 
 }
 video{
@@ -44,6 +44,7 @@ video{
 .nav-links {
     display: flex;
     gap: 30px;
+    flex-wrap: wrap;
 }
 
 .nav-links a {
@@ -55,7 +56,7 @@ video{
 }
 
 .nav-links a:hover {
-    color: rgb(252, 67, 67);
+    color: rgb(188, 123, 253);
     font-size: 22px;
 }
 
@@ -84,7 +85,7 @@ video{
     display: flex;
     width: 99%;
     margin: 15px 10px 0px 10px;
-     flex-wrap: wrap;
+    flex-wrap: wrap;
     
 
 }
@@ -153,7 +154,7 @@ video{
     border: 3px solid white;
         width: 99%;
         margin: 15px 10px 0px 10px;
-    bottom: 10px;
+        bottom: 10px;
 }
 
 .title {
